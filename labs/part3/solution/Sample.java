@@ -1,4 +1,4 @@
-package com.agiledeveloper;
+package part3.solution;
 
 import io.reactivex.Flowable;
 

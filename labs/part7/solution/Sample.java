@@ -1,4 +1,4 @@
-package com.agiledeveloper;
+package part7.solution;
 
 import drone.DroneLocation;
 import drone.DroneLocator;

@@ -1,4 +1,4 @@
-package com.agiledeveloper;
+package part1.solution;
 
 import io.reactivex.BackpressureStrategy;
 import io.reactivex.Flowable;

@@ -1,4 +1,4 @@
-package com.agiledeveloper;
+package part4.laba.solution;
 
 import drone.DroneLocator;
 import io.reactivex.disposables.Disposable;

@@ -4,7 +4,8 @@ import io.reactivex.BackpressureStrategy;
 import io.reactivex.Flowable;
 import io.reactivex.FlowableEmitter;
 
-public class Sample {
+public class Sample2
+{
   public static void main(String[] args) {
     Flowable.<Integer>create(emitter -> emit(emitter), BackpressureStrategy.BUFFER)
       .map(data -> transform(data))
